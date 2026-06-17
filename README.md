@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Harshitha R! 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6A5ACD&center=true&vLiable=true&width=600&lines=Final+Year+B.Tech+CSE+(AI%26ML);Aspiring+Data+Analyst;Python+%E2%80%A2+SQL+%E2%80%A2+Power+BI+%E2%80%A2+ML;6%2B+Internships+%7C+Open+to+Work+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6A5ACD&center=true&vLiable=true&width=600&lines=Final+Year+B.Tech+CSE+(AI%26ML);Aspiring+Data+Analyst;Python+%E2%80%A2+ML+%E2%80%A2+Data+Analytics" alt="Typing SVG"/>
 </p>
 
 <p align="center">
@@ -97,7 +97,7 @@
 
 | Project | Description | Tools |
 |---|---|---|
-| 📊 [Student Performance Analysis](https://github.com/R-Harshitha06/Data-Analysis-on-student-performance-using-python) | EDA on student academic data to find performance patterns | Python, Pandas, Seaborn |
+| 📊 [Student Performance Dashboard](https://github.com/R-Harshitha06/student-performance-dashboard) | Interactive dashboard for visualizing student academic performance patterns and insights | Python, Streamlit, Pandas, Seaborn |
 | 📋 [Apex Internship Tasks](https://github.com/R-Harshitha06/apex-tasks) | Data cleaning, EDA, dashboard & statistical validation | Python, Power BI, Streamlit |
 | 📄 [Reactive Resume](https://github.com/R-Harshitha06/reactive-resume) | Open source resume builder — forked & customized | TypeScript, React |
 
