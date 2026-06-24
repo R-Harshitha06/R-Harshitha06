@@ -14,6 +14,10 @@
   <a href="https://github.com/R-Harshitha06">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+Visit my Portfolio 
+<a href= https://r-harshitha06.github.io/My_Portfolio/> 
+  Portfolio 
+</a>
 </p>
 
 ---
@@ -122,9 +126,7 @@
 </p>
 
 ---
-<p align="center> Visit my Portfolio 
-<a href= https://r-harshitha06.github.io/My_Portfolio/> Portfolio </a>
-</p>
+
   
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=R-Harshitha06&label=Profile%20Views&color=6A5ACD&style=flat"/>
