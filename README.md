@@ -123,7 +123,7 @@
 
 ---
 <p align="center> Visit my Portfolio 
-<a href="https://linkedin.com/in/harshitha-r-6017a8347"> Portfolio </a>
+<a href= https://r-harshitha06.github.io/My_Portfolio/> Portfolio </a>
 </p>
   
 <p align="center">
