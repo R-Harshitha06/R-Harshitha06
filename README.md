@@ -14,10 +14,9 @@
   <a href="https://github.com/R-Harshitha06">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-Visit my Portfolio 
-<a href= https://r-harshitha06.github.io/My_Portfolio/> 
-  Portfolio 
-</a>
+  <a href="https://r-harshitha06.github.io/My_Portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-2A2F35?style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio"/>
+  </a>
 </p>
 
 ---
