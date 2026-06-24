@@ -122,7 +122,10 @@
 </p>
 
 ---
-
+<p align="center> Visit my Portfolio 
+<a href="https://linkedin.com/in/harshitha-r-6017a8347"> Portfolio </a>
+</p>
+  
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=R-Harshitha06&label=Profile%20Views&color=6A5ACD&style=flat"/>
 </p>
